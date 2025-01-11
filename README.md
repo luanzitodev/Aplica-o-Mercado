@@ -20,12 +20,19 @@ Biblioteca 'os' para limpar a tela do terminal.
 Biblioteca 'tabulate' para exigibir relatórios formatados como tabelas no terminal
 
 ## Imagens da aplicação
+## Menu:
 ![menu mmhz](https://github.com/user-attachments/assets/54bf83b7-0316-4635-bc66-fe5f5119ff02)
+## Opção adicionar produto:
 ![adicionar produto](https://github.com/user-attachments/assets/f9f89d32-3063-44cb-947c-19086069a1c2)
+## Opção excluir produto:
 ![opção excluir](https://github.com/user-attachments/assets/780f7a2b-744e-4dc3-a716-a889ed6d011c)
+## Opção alterar produto:
 ![alterar produto](https://github.com/user-attachments/assets/f0c73532-c5db-4bc3-846f-e0cacc53ec3c)
+## Opção relatorio geral:
 ![relatorio geral](https://github.com/user-attachments/assets/81682f27-0453-4f2a-baa1-b9c6621157cb)
+## Opção relatorio por categoria:
 ![relatorio categoria](https://github.com/user-attachments/assets/3f064109-2bed-4a82-8d8a-8c44a81efbab)
+## Opção relatorio por preço:
 ![relatorio preço](https://github.com/user-attachments/assets/5f53588d-5baf-4a22-88c7-ad106c258cd1)
 
 
