@@ -1,8 +1,8 @@
 # Sistema de Controle de Inventário
 
-Este é um sistema simples de controle de inventário desenvolvido em Python.
-Ele permite adicionar, excluir, alterar e consultar produtos.
-Gerar relatórios por categoria e por preço
+Sistema simples de controle de inventário desenvolvido em Python.
+Permite adicionar, excluir, alterar e consultar produtos.
+Gerar relatórios por categoria e por preço.
 O inventário é armazenado em um arquivo de texto.
 
 ## Funcionalidades
@@ -11,7 +11,7 @@ O inventário é armazenado em um arquivo de texto.
 - **Excluir produto**: Exclui um produto do inventário com base no código informado.
 - **Alterar produto**: Permite alterar as informações de um produto existente, como nome, categoria, quantidade e preço.
 - **Relatório geral**: Gera um relatório completo com todos os produtos no inventário.
-- **Relatório por categoria**: Filtra e exibe os produtos de uma categoria específica.
+- **Relatório por categoria**: Filtra e exibe os produtos de uma categoria específica como "Limpeza" ou "Bebidas".
 - **Relatório por preço**: Filtra e exibe os produtos com preço abaixo de um valor especificado.
 
 ## Requisitos
