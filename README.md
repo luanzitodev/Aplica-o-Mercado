@@ -17,7 +17,7 @@ O inventário é armazenado em um arquivo de texto.
 ## Requisitos
 Python 3
 Biblioteca 'os' para limpar a tela do terminal.
-Biblioteca 'tabulate' para exigibir relatórios formatados como tabelas no terminal
+Biblioteca 'tabulate' para exibir relatórios formatados como tabelas no terminal.
 
 ## Imagens da aplicação
 ## Menu:
