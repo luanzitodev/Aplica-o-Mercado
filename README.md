@@ -15,9 +15,9 @@ O inventário é armazenado em um arquivo de texto.
 - **Relatório por preço**: Filtra e exibe os produtos com preço abaixo de um valor especificado.
 
 ## Requisitos
-Python 3
-Biblioteca 'os' para limpar a tela do terminal.
-Biblioteca 'tabulate' para exibir relatórios formatados como tabelas no terminal.
+- **Python 3**
+- **Biblioteca 'os' para limpar a tela do terminal.**
+- **Biblioteca 'tabulate' para exibir relatórios formatados como tabelas no terminal.**
 
 ## Imagens da aplicação
 ## Menu:
